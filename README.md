@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megablue
 - 👀 I’m interested in 3D Printing, Maker Projects & Gaming Stuff. 
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning 🦀.
 - 📫 How to reach me at https://twitter.com/Mega3DP
 
 <!---
